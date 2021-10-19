@@ -10,7 +10,7 @@ public class OneToOneMappingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OneToOneMappingApplication.class, args);
-		System.out.println("OneToOneMappingApplication running................");
+		//System.out.println("OneToOneMappingApplication running................");
 	}
 
 }
